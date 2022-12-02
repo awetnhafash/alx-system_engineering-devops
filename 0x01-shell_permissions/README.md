@@ -1,0 +1,1 @@
+This folder which is 0x01-shell_permissions contains tasks for shell permissions
