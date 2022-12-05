@@ -1,0 +1,1 @@
+A folder in shell redirections that includes each tasks
